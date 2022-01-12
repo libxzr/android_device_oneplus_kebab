@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_kebab.mk
+    $(LOCAL_DIR)/kscope_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_kebab-user \
-    arrow_kebab-userdebug \
-    arrow_kebab-eng
+    kscope_kebab-user \
+    kscope_kebab-userdebug \
+    kscope_kebab-eng
